@@ -36,7 +36,7 @@ Read the [contribution guidelines](contributing.md) first!
   - The [documentation](http://openwatcom.org/doc.php) is very valuable to understand working with both version 1.9 and
     the V2 fork.
   - [Arch Wiki page](https://wiki.archlinux.org/index.php/Open_Watcom)
-  - Used for Doom I-II, Warcraft I-II, Duke Nukem 3D, Full Throttle and Dark Forces
+  - Used for Doom I-II, Warcraft I-II, Duke Nukem 3D, Full Throttle, Dark Forces and Retro City Rampage
 - [Open Watcom V2](https://github.com/open-watcom/open-watcom-v2) - GitHub fork which is actively maintained and is
   ported to 64-bit Windows and Linux.
 - [Turbo C 2.01](http://www.doshaven.eu/wp-content/uploads/2014/08/tc201.zip) - C IDE and compiler from Borland first released in 1987
@@ -44,6 +44,10 @@ Read the [contribution guidelines](contributing.md) first!
 
 
 ## Tutorials and programming resources
+
+### History
+
+- [The Life of MS-DOS by Brendan Byers](https://b13rg.github.io/Life-of-MS-DOS/)
 
 ### Compiling
 
@@ -55,11 +59,13 @@ Read the [contribution guidelines](contributing.md) first!
 ### General
 
 - [David Brackeen - 256-Color VGA Programming in C](http://www.brackeen.com/vga/)
+- [640k Really is Enough for Anyone by Robert W. Oliver II](https://blog.sourcerer.io/640k-really-is-enough-for-anyone-314f393ca5b8)
 - [DOS programming resources by DOS HAVEN](http://www.doshaven.eu/sources/)
 - [Just keeping it real... old skool style - Scali's OpenBlog](https://scalibq.wordpress.com/2011/11/23/just-keeping-it-real-old-skool-style/)
 - [Alex Russell's Dos Game Programming in C for Beginners](http://www3.telus.net/alexander_russell/course/introduction.htm)
   - This series contains a tutorial for making [buffered input handling](http://www3.telus.net/alexander_russell/course/chapter_4.htm)
 - [PC Game Programmer's Encyclopedia on the Web](http://bespin.org/~qz/pc-gpe/)
+- [The Art of Demomaking by flipcode](http://flipcode.com/demomaking/)
 
 ### DOS API
 
@@ -72,6 +78,8 @@ Read the [contribution guidelines](contributing.md) first!
   - Original in downloadable .zip files from [Ralph Brown's website](http://www.cs.cmu.edu/~ralf/files.html)
 
 ### Video
+
+- [Values for standard video mode](http://www.columbia.edu/~em36/wpdos/videomodes.txt)
 
 #### CGA
 
