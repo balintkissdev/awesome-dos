@@ -54,7 +54,7 @@ Read the [contribution guidelines](contributing.md) first!
 
 ### General
 
-- [David Brackeen - 256-Color VGA Programming in C](httpp://www.brackeen.com/vga/)
+- [David Brackeen - 256-Color VGA Programming in C](http://www.brackeen.com/vga/)
 - [DOS programming resources by DOS HAVEN](http://www.doshaven.eu/sources/)
 - [Just keeping it real... old skool style - Scali's OpenBlog](https://scalibq.wordpress.com/2011/11/23/just-keeping-it-real-old-skool-style/)
 - [Alex Russell's Dos Game Programming in C for Beginners](http://www3.telus.net/alexander_russell/course/introduction.htm)
