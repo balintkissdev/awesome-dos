@@ -122,6 +122,7 @@ Read the [contribution guidelines](contributing.md) first!
 ### Other
 
 - [How to build DOS COM files with GCC by Chris Wellons](https://nullprogram.com/blog/2014/12/09/)
+- [Table of DOSBox cyclecounts according to processor types](https://www.alternatewars.com/Games/DOSBox/DOSBox.htm)
 
 ## Books
 
