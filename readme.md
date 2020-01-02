@@ -201,7 +201,7 @@ List of all homebrew DOS games: http://www.doshaven.eu
 - [Quake](https://github.com/id-Software/Quake)
 - [Rise of the Triad](https://github.com/videogamepreservation/rott)
 - [Wolfenstein 3D](https://github.com/id-Software/wolf3d)
-
+- [Sopwith](http://davidlclark.com/page/sopwith)
 
 ## License
 
