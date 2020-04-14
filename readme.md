@@ -41,6 +41,7 @@ Read the [contribution guidelines](contributing.md) first!
   ported to 64-bit Windows and Linux.
 - [Turbo C 2.01](http://www.doshaven.eu/wp-content/uploads/2014/08/tc201.zip) - C IDE and compiler from Borland first released in 1987
 - [Turbo C++ 1.01](http://www.doshaven.eu/wp-content/uploads/2014/08/tcpp101.zip) - C++ IDE and compiler from Borland released in 1991
+- [DIV Games Studio 2](https://archive.org/details/div2_iso) - IDE to develop DOS games in 2d, mode 7 and 3d. Released in 1998. [Online](http://js.mikedx.co.uk/DIV2.html) version.
 
 
 ## Tutorials and programming resources
