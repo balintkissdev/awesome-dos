@@ -2,6 +2,8 @@
 
 Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
 
+[<img src="logo.svg" align="right" width="100">](https://github.com/balintkissdev/awesome-dos)
+
 A curated list of references for development of DOS applications and learning about the system itself. This includes
 list of compilers, tutorials, videos, links to free and paid books and source code to DOS games. The goal of this list
 is to collect information and act as a starting point for someone who wants to start out retro-programming for the DOS
