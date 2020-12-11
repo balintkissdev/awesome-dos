@@ -10,3 +10,17 @@ jobs:
         with:
           fetch-depth: 0
       - run: npx awesome-lint
+  Awesome_Bot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.6.x
+      - run: |
+          ruby .github/osia_convert.rb
+          gem install awesome_bot
+          ruby .github/osia_get_links.rb
+          awesome_bot readme.md --allow-redirect
