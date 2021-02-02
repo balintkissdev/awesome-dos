@@ -1,7 +1,10 @@
 name: CI
+
 on:
   pull_request:
     branches: [main]
+  workflow_dispatch:
+  
 jobs:
   Awesome_Lint:
     runs-on: ubuntu-latest
@@ -10,6 +13,7 @@ jobs:
         with:
           fetch-depth: 0
       - run: npx awesome-lint
+  
   Awesome_Bot:
     runs-on: ubuntu-latest
     steps:
