@@ -24,7 +24,5 @@ jobs:
         with:
           ruby-version: 2.6.x
       - run: |
-          ruby .github/osia_convert.rb
           gem install awesome_bot
-          ruby .github/osia_get_links.rb
           awesome_bot readme.md --allow-redirect
