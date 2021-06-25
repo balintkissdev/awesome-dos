@@ -33,6 +33,14 @@ platform.
 - [DIV Games Studio 2](https://archive.org/details/div2_iso) - IDE to develop DOS games in 2d, mode 7 and 3d. Released in 1998.
   - [Online version.](http://js.mikedx.co.uk/DIV1.html)
 
+### Scripting languages and interpreters for DOS
+
+- [DOjS](https://github.com/SuperIlu/DOjS) - JavaScript programming environment for MS-DOS, FreeDOS or any DOS-based Windows (like 95, 98, ME).
+- [Lua for DOS](https://archive.org/details/lua5.3.5) - Online demo of Lua 5.3.5, compiled for MS-DOS on the Intel 80486 processor.
+- [Micropython for FreeDOS](https://github.com/pohmelie/micropython-freedos) - FreeDOS ad-hoc module for [micropython](https://github.com/micropython/micropython).
+- [perldos](https://perldoc.perl.org/perldos) - Perl for DOS.
+- [PythonD](http://www.caddit.net/pythond/) - Python for DOS, including multi-threading, networking and OpenGL.
+
 ## Tutorials and programming resources
 
 ### History
