@@ -140,7 +140,7 @@ platform.
 
 - [CGA Graphics - Not as bad as you thought! - by 8-bit Guy](https://www.youtube.com/watch?v=niKblgZupOc) - History and technical details about IBM's CGA system. Also describes 4-color RGBI and 16-color Composite modes.
 - [How Oldschool Sound/Music worked - by 8-bit Guy](https://www.youtube.com/watch?v=q_3d1x2VPxk) - Video about PC speaker, FM synthesizers in NES and Commodore 64, Yamaha OPL chip in AdLib and Sound Blaster sound cards, PCM samples and MOD music.
-- [Let's Code - MS DOS by root42](https://www.youtube.com/playlist?list=PLGJnX2KGgaw2L7Uv5NThlL48G9y4rJx1X) - DOS programming tutorial series including VGA, SoundBlaster and VGA Mode X.
+- [Let's Code - MS DOS - by root42](https://www.youtube.com/playlist?list=PLGJnX2KGgaw2L7Uv5NThlL48G9y4rJx1X) - DOS programming tutorial series including VGA, SoundBlaster and VGA Mode X.
 - [LGR - Evolution of PC Audio - As Told by Secret of Monkey Island](https://www.youtube.com/watch?v=a324ykKV-7Y) - Comparison of playing the intro theme of Secret of Monkey Island through PC speaker, IBM PCjr/Tandy, AdLib, Game Blaster, Roland LAPC-1/MT-32, Gravis Ultrasound, Roland SCC-1 MIDI, SB16 Waveblaster/AWE32 and CD quality digital audio.
 - [Porting Retro City Rampage to MS-DOS: From PS4 to 1.44MB Floppy](https://www.youtube.com/watch?v=kSKeWH4TY9Y) - GDC talk. Brian Provinciano's presentation on porting Retro City Rampage from PlayStation 4 to DOS. Topics include optimization, using interrupts, timing, PC speaker sound, joystick, memory management and fixed-point math.
 
