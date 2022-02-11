@@ -32,6 +32,7 @@ platform.
 - [Turbo C++ 1.01](http://www.doshaven.eu/wp-content/uploads/2014/08/tcpp101.zip) - C++ IDE and compiler from Borland released in 1991.
 - [DIV Games Studio 2](https://archive.org/details/div2_iso) - IDE to develop DOS games in 2d, mode 7 and 3d. Released in 1998.
   - [Online version.](http://js.mikedx.co.uk/DIV1.html)
+- [T3X](https://t3x.org/t3x/#t3x7) - A small, portable, procedural, block-structured, recursive, almost typeless, and to some degree object-oriented programming language by Nils M. Holm.
 
 ### Scripting languages and interpreters for DOS
 
