@@ -65,9 +65,9 @@ platform.
 - [Alex Russell's Dos Game Programming in C for Beginners](https://web.archive.org/web/20201112023702/http://www3.telus.net/alexander_russell/course/introduction.htm) - DOS game programming tutorial series including a primer on C, graphics, animation, input handling and collision detection. This series contains a tutorial for making [buffered input handling](https://web.archive.org/web/20200203195410/http://www3.telus.net/alexander_russell/course/chapter_4.htm). Last chapter contains full source code of a Break Out game on DOS.
 - [The Artevida Game Programming Tutorials](http://web.archive.org/web/20201031021650/http://atrevida.comprenica.com/) - Kevin Matz's almost book-length treatment of DOS system programming and VGA programming fundamentals using C/C++ and 80x86 assembly. Unfortunately it is incomplete and was abandoned since 2001.
 - [PC Game Programmer's Encyclopedia](https://web.archive.org/web/20201111164240/http://bespin.org/~qz/pc-gpe/) - Collection of guides covering assembly, sound (Sound Blaster, Gravis UltraSound, PC Speaker, GameBlaster, Adlib), input, memory (EMS, XMS, DMA Transfers), PIT, VGA, SVGA, algorithms and file formats.
-  
 - [The Art of Demomaking by flipcode](http://web.archive.org/web/20190123060222/http://www.flipcode.com/archives/The_Art_of_Demomaking-Issue_02_Introduction_To_Computer_Graphics.shtml) - Series from 1999 that introduces to graphics programming under DOS. The home site contains other late 90s/early 2000s game programming articles as well.
 - [Programming MS-DOS with Power - DOS Programming, Undocumented DOS, and DOS Secrets](http://web.archive.org/web/20200626182822/http://www.fysnet.net/) - System programming tutorials like disk handling, interrupts, inputs, sound, graphics.
+- [Programmer's Heaven (InfoMagic)(March 1997) CD-ROM](http://discmaster.textfiles.com/view/4555/Programmer%27s%20Heaven%20%28InfoMagic%29%28March%201997%29.BIN%2Fmain.htm) - Source code and files for the following topics: MS-DOS, networking, C, C++, Pascal, Visual Basic, Delphi, 3D, PC speaker, Soundblaster, Gravis Ultrasound, MIDI and many more.
 
 ### DOS API
 
@@ -101,6 +101,8 @@ platform.
 - [C code sample for drawing in VESA 2.0 mode](https://web.archive.org/web/20200121065447/http://www.codenet.ru/progr/video/vesa20ex.php) - Just code listing for drawing an ellipse in VESA mode.
 
 ### Sound
+
+- [Programming Sound Cards CD](http://discmaster.textfiles.com/browse/63/Programming%20Sound%20Cards.iso) - A 1995 CD-ROM containing source code for Adlib, Gravis, Pro-Audio, Roland and Sound Blaster sound cards. The description for the folders on the CD-ROM is listed [on the back of the CD-ROM case.](https://archive.org/details/programming-sound-cards/Programming%20Sound%20Cards_back.jpg)
 
 #### PC Speaker
 
@@ -150,6 +152,7 @@ platform.
 - [Allegro 4.2](https://www.allegro.cc/files/?v=4.2) - Game development library for DOS, Windows and Linux.
 - [LoveDOS](https://github.com/rxi/lovedos) - A framework for making 2D DOS games in Lua. API based on a subset of the LÖVE API.
 - [DOS-VGA-Game](https://github.com/marcomarrero/DOS-VGA-Game) - Marco A. Marrero's DOS VGA/hardware library implemented in assembly and Turbo Pascal.
+- [DIGIPAK sound drivers source code](https://github.com/jratcliff63367/digpak) - Original source code for the DIGIPAK sound drivers uploaded to GitHub by John W. Ratcliff.
 
 ## Open source DOS games
 
