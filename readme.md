@@ -22,9 +22,9 @@ platform.
 
 - [bcc - Bruce's Compiler](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/bcc.html) - Bruce's C compiler is a simple C compiler that produces 8086 assembler for tiny/small memory models.
 - [DJGPP](http://www.delorie.com/djgpp/) - DJ Delorie's complete 32-bit C/C++ development environment for Intel 80386. Used for Quake.
-- [Open Watcom](http://openwatcom.org/) - Formerly commercial C/C++ development environment for 16- and 32-bit DOS and
+- [Open Watcom](https://web.archive.org/web/20220627162043/http://www.openwatcom.org/) - Formerly commercial C/C++ development environment for 16- and 32-bit DOS and
   Windows. The current official version is 1.9. A GitHub fork is also available. Used for Doom I-II, Warcraft I-II, Duke Nukem 3D, Full Throttle, Dark Forces and Retro City Rampage.
-  - The [documentation](http://openwatcom.org/doc.php) is very valuable in order to understand working with both version 1.9 and the V2 fork.
+  - The [documentation](https://web.archive.org/web/20220630162351/http://www.openwatcom.org/doc.php) is very valuable in order to understand working with both version 1.9 and the V2 fork.
   - [Arch Wiki page](https://wiki.archlinux.org/index.php/Open_Watcom)
 - [Open Watcom V2](https://github.com/open-watcom/open-watcom-v2) - GitHub fork which is actively maintained and is
   ported to 64-bit Windows and Linux.
@@ -128,8 +128,8 @@ platform.
 
 ### Free
 
-- [Game Engine Black Book: Wolfenstein 3D - by Fabien Sanglard](https://fabiensanglard.net/gebbwolf3d.pdf) - Fabien Sanglard's walkthrough on the game engine architecture of id Software's Wolfenstein 3D on the IBM PC's hardware. Contains forewords by John Carcmack, Tom Hall and John Romero.
-- [Game Engine Black Book: Doom - by Fabien Sanglard](https://fabiensanglard.net/gebbdoom.pdf) - Fabien Sanglard's walkthrough on the game engine architecture of id Software's original Doom on Intel 486 system and game console ports. Contains forewords by John Carcmack, Dave Taylor and John Romero.
+- [Game Engine Black Book: Wolfenstein 3D - by Fabien Sanglard](https://fabiensanglard.net/b/gebbwolf3d.pdf) - Fabien Sanglard's walkthrough on the game engine architecture of id Software's Wolfenstein 3D on the IBM PC's hardware. Contains forewords by John Carcmack, Tom Hall and John Romero.
+- [Game Engine Black Book: Doom - by Fabien Sanglard](https://fabiensanglard.net/b/gebbdoom.pdf) - Fabien Sanglard's walkthrough on the game engine architecture of id Software's original Doom on Intel 486 system and game console ports. Contains forewords by John Carcmack, Dave Taylor and John Romero.
 - [A to Z of C - a book on C/DOS programming by K. Joseph Wesley and R. Rajesh Jeba Anbiah](https://web.archive.org/web/20201109033646/http://guideme.itgo.com/atozofc/) - Non-profit book on programming in C on DOS. DOS system programming starts from Part II.
 - [Michael Abrash's Graphics Programming Black Book Special Edition](https://web.archive.org/web/20201112020812/http://www.phatcode.net/res/224/files/html/index.html) - Collection of Michael Abrash's Dr. Dobb's Journal graphics programming articles and his work on the graphics subsystem of Quake.
 
@@ -169,7 +169,7 @@ List of all homebrew DOS games: http://www.doshaven.eu
   - [Source code download link](http://www.doshaven.eu/downloads/537)
 - [NetHack](https://github.com/NetHack/NetHack) - Descendant of the original [NetHack](https://en.wikipedia.org/wiki/NetHack) rougelike game first released in 1987 available on multiple platforms.
 - [Piskworks](https://github.com/berk76/piskworks) - Gomoku clone written in C. Works on DOS, ZX Spectrum, ZX81, ZX80, APPLE1, AS400 and Windows.
-- [Plutonium Caverns](https://jani-nykanen.itch.io/plutonium-caverns) - Overhead puzzle game written in C. Web version uses [DOSBox ported to Emscripten](https://github.com/dreamlayers/em-dosbox) to embed DOSBox into HTML5. However, the original executable is also downloadable and buildable with Open Watcom.
+- [Plutonium Caverns](https://github.com/jani-nykanen/plutonium-caverns) - Overhead puzzle game written in C. Web version uses [DOSBox ported to Emscripten](https://github.com/dreamlayers/em-dosbox) to embed DOSBox into HTML5. However, the original executable is also downloadable and buildable with Open Watcom.
   - [GitHub repository](https://github.com/jani-nykanen/plutonium-caverns)
 - [Ptakovina](https://github.com/berk76/tetris) - Tetris clone written in C. Runs on DOS, Unix/Linux, ZX Spectrum and Windows.
 - [sudoku86](https://sourceforge.net/projects/sudoku86/) - Sudoku clone written in C. Runs on 8086/8088 CPU, uses CGA, MCGA or VGA graphics and uses a mouse.
