@@ -170,7 +170,6 @@ List of all homebrew DOS games: http://www.doshaven.eu
 - [NetHack](https://github.com/NetHack/NetHack) - Descendant of the original [NetHack](https://en.wikipedia.org/wiki/NetHack) rougelike game first released in 1987 available on multiple platforms.
 - [Piskworks](https://github.com/berk76/piskworks) - Gomoku clone written in C. Works on DOS, ZX Spectrum, ZX81, ZX80, APPLE1, AS400 and Windows.
 - [Plutonium Caverns](https://github.com/jani-nykanen/plutonium-caverns) - Overhead puzzle game written in C. Web version uses [DOSBox ported to Emscripten](https://github.com/dreamlayers/em-dosbox) to embed DOSBox into HTML5. However, the original executable is also downloadable and buildable with Open Watcom.
-  - [GitHub repository](https://github.com/jani-nykanen/plutonium-caverns)
 - [Ptakovina](https://github.com/berk76/tetris) - Tetris clone written in C. Runs on DOS, Unix/Linux, ZX Spectrum and Windows.
 - [sudoku86](https://sourceforge.net/projects/sudoku86/) - Sudoku clone written in C. Runs on 8086/8088 CPU, uses CGA, MCGA or VGA graphics and uses a mouse.
 - [Tetris](http://www.doshaven.eu/game/tetris/) - Tetris clone written in assembly.
