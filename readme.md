@@ -34,6 +34,10 @@ platform.
   - [Online version.](http://js.mikedx.co.uk/DIV1.html)
 - [T3X](https://t3x.org/t3x/#t3x7) - A small, portable, procedural, block-structured, recursive, almost typeless, and to some degree object-oriented programming language by Nils M. Holm.
 
+### Memory managers
+
+- [386MAX](https://github.com/sudleyplace/386MAX) - Memory manager for DOS PCs with 386 or higher CPUs, [released by Qualitas company in 1992](https://winworldpc.com/product/386max/6x). Source code was released in June 2022 on GitHub with GPL-3.0 license.
+
 ### Scripting languages and interpreters for DOS
 
 - [DOjS](https://github.com/SuperIlu/DOjS) - JavaScript programming environment for MS-DOS, FreeDOS or any DOS-based Windows (like 95, 98, ME).
