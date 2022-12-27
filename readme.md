@@ -152,7 +152,7 @@ platform.
 - [Allegro 4.2](https://www.allegro.cc/files/?v=4.2) - Game development library for DOS, Windows and Linux.
 - [LoveDOS](https://github.com/rxi/lovedos) - A framework for making 2D DOS games in Lua. API based on a subset of the LÖVE API.
 - [DOS-VGA-Game](https://github.com/marcomarrero/DOS-VGA-Game) - Marco A. Marrero's DOS VGA/hardware library implemented in assembly and Turbo Pascal.
-- [DIGIPAK sound drivers source code](https://github.com/jratcliff63367/digpak) - Original source code for the DIGIPAK sound drivers uploaded to GitHub by John W. Ratcliff.
+- [DIGPAK sound drivers source code](https://github.com/jratcliff63367/digpak) - Original source code for the DIGPAK sound drivers uploaded to GitHub by John W. Ratcliff.
 
 ## Open source DOS games
 
