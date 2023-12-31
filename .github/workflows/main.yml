@@ -25,4 +25,4 @@ jobs:
           ruby-version: 2.6.10
       - run: |
           gem install awesome_bot
-          awesome_bot readme.md --allow-redirect --white-list amazon.com/Tricks-Game-Programming-Gurus-Andre-Lamothe/dp/0672305070/
+          awesome_bot readme.md --allow-redirect --white-list amazon.com/Tricks-Game-Programming-Gurus-Andre-Lamothe/dp/0672305070/,discmaster.textfiles.com,web.archive.org
