@@ -127,8 +127,6 @@ platform.
 - [Sound Blaster 16 Programming Document 3.5 by Ethan Brodsky](https://web.archive.org/web/20201130110457/http://homepages.cae.wisc.edu/~brodskye/sb16doc/sb16doc.html) - Programming the Sound Blaster 16 DSP CT1341 chip for recording and playback of digitized audio.
   - version 3.4 on [GameDev.net archive](https://web.archive.org/web/20180507161514/http://archive.gamedev.net/archive/reference/articles/article444.html)
 - [Soundblaster Programming Information v0.90](https://web.archive.org/web/20191020222313/http://www.intel-assembler.it/portale/5/soundblaster-programming-information/sb-reference-for-programming-sound.asp) - List of Sound Blaster models and registers.
-- [SBEMU](https://github.com/crazii/SBEMU) - A TSR that emulates Sound Blaster and OPL3 in pure DOS using modern PCI-based (onboard and add-in card) sound cards. Supports both real mode and protected mode games!
-- [VSBHDA](https://github.com/Baron-von-Riedesel/VSBHDA) - A fork of SBEMU (see above), which also aims to offer Sound Blaster emulation for modern PC hardware, in both real mode and protected mode games.
 
 ### Other
 
@@ -225,3 +223,10 @@ List of all homebrew DOS games: http://www.doshaven.eu
 - [Sopwith](https://web.archive.org/web/20200131222432/http://davidlclark.com/page/sopwith) - Side-scrolling shoot 'em up created by David L. Clark in 1984. The game involves piloting a Sopwith biplane, attempting to bomb enemy buildings while avoiding fire from enemy planes and various other obstacles.
   - [MaiZure's Projects - Decoded: Sopwith](https://web.archive.org/web/20201211175311/https://www.maizure.org/projects/decoded-sopwith/) - Code analysis by MaiZure.
 - [Wolfenstein 3D](https://github.com/id-Software/wolf3d) - FPS developed by id Software set in the Nazi German prison Castle Wolfenstein. Features pseudo-3D graphics with raycasting technique. Written in C and assembly.
+
+## Drivers and emulators
+
+### Sound card emulators
+
+- [SBEMU](https://github.com/crazii/SBEMU) - A TSR that emulates Sound Blaster and OPL3 in pure DOS using modern PCI-based (onboard and add-in card) sound cards. Supports both real mode and protected mode games!
+- [VSB](https://github.com/Baron-von-Riedesel/VSBHDA) - A fork of SBEMU (see above), which also aims to offer Sound Blaster emulation for modern PC hardware, in both real mode and protected mode games.
