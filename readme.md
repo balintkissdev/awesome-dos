@@ -31,6 +31,7 @@ platform.
 - [Open Watcom V2](https://github.com/open-watcom/open-watcom-v2) - GitHub fork which is actively maintained and is
   ported to 64-bit Windows and Linux.
 - [Turbo C 2.01](http://www.doshaven.eu/wp-content/uploads/2014/08/tc201.zip) - C IDE and compiler from Borland first released in 1987.
+- [Turbo C++ 1.01](http://www.doshaven.eu/wp-content/uploads/2014/08/tcpp101.zip) - C++ IDE and compiler from Borland released in 1991.
 - [Turbo C++ 3.0](https://archive.org/details/tcc_20210425) - C++ IDE and compiler from Borland released in 1992.
   - [Online version.](https://sounddrill31.github.io/TurboCPP-Web/)
 - [DIV Games Studio 2](https://archive.org/details/div2_iso) - IDE to develop DOS games in 2d, mode 7 and 3d. Released in 1998.
