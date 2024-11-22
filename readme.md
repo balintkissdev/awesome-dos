@@ -18,6 +18,10 @@ platform.
 - [Books](#books)
 - [Videos](#videos)
 - [Source code](#source-code)
+  - [Open source DOS operating systems](#open-source-dos-operating-systems)
+  - [Open source DOS libraries](#open-source-dos-libraries)
+  - [Open source DOS games](#open-source-dos-games)
+- [Drivers and emulators](#drivers-and-emulators)
 
 ## Development tools
 
@@ -240,3 +244,11 @@ List of all homebrew DOS games: http://www.doshaven.eu
 - [Sopwith](https://web.archive.org/web/20200131222432/http://davidlclark.com/page/sopwith) - Side-scrolling shoot 'em up created by David L. Clark in 1984. The game involves piloting a Sopwith biplane, attempting to bomb enemy buildings while avoiding fire from enemy planes and various other obstacles.
   - [MaiZure's Projects - Decoded: Sopwith](https://web.archive.org/web/20201211175311/https://www.maizure.org/projects/decoded-sopwith/) - Code analysis by MaiZure.
 - [Wolfenstein 3D](https://github.com/id-Software/wolf3d) - FPS developed by id Software set in the Nazi German prison Castle Wolfenstein. Features pseudo-3D graphics with raycasting technique. Written in C and assembly.
+
+## Drivers and emulators
+
+### Sound card emulators
+
+- [SBEMU](https://github.com/crazii/SBEMU) - A TSR that emulates Sound Blaster and OPL3 in pure DOS using modern PCI-based (onboard and add-in card) sound cards. Supports both real mode and protected mode games!
+- [VSB](https://github.com/Baron-von-Riedesel/VSBHDA) - A fork of SBEMU (see above), which also aims to offer Sound Blaster emulation for modern PC hardware, in both real mode and protected mode games.
+
