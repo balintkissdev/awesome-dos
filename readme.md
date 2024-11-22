@@ -18,6 +18,7 @@ platform.
 - [Books](#books)
 - [Videos](#videos)
 - [Source code](#source-code)
+  - [Open source DOS operating systems](#open-source-dos-operating-systems)
   - [Open source DOS libraries](#open-source-dos-libraries)
   - [Open source DOS games](#open-source-dos-games)
 - [Drivers and emulators](#drivers-and-emulators)
