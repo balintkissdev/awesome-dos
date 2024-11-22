@@ -4,7 +4,7 @@ on:
   pull_request:
     branches: [main]
   workflow_dispatch:
-  
+
 jobs:
   Awesome_Lint:
     runs-on: ubuntu-latest
@@ -13,7 +13,7 @@ jobs:
         with:
           fetch-depth: 0
       - run: npx awesome-lint
-  
+
   Awesome_Bot:
     runs-on: ubuntu-latest
     steps:
@@ -25,4 +25,4 @@ jobs:
           ruby-version: 2.6.10
       - run: |
           gem install awesome_bot
-          awesome_bot readme.md --allow-redirect --white-list amazon.com/Tricks-Game-Programming-Gurus-Andre-Lamothe/dp/0672305070/,discmaster.textfiles.com,web.archive.org
+          awesome_bot readme.md --allow-redirect --white-list amazon.com,discmaster.textfiles.com,web.archive.org

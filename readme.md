@@ -71,7 +71,7 @@ platform.
 
 ### General
 
-- [David Brackeen - 256-Color VGA Programming in C](http://www.brackeen.com/vga/) - Tutorial series to learn how to create graphics on DOS.
+- [David Brackeen - 256-Color VGA Programming in C](https://web.archive.org/web/20240812211701/http://www.brackeen.com/vga/) - Tutorial series to learn how to create graphics on DOS, written in 1996.
 - [640k Really is Enough for Anyone by Robert W. Oliver II](https://blog.sourcerer.io/640k-really-is-enough-for-anyone-314f393ca5b8) - Short article about getting Turbo C running on FreeDOS and moving a pixel around.
 <!--lint disable no-repeat-punctuation-->
 - [Just keeping it real... old skool style - Scali's OpenBlog](https://scalibq.wordpress.com/2011/11/23/just-keeping-it-real-old-skool-style/) - Blog post about Scali's journey of doing CGA, EGA and VGA programming.
@@ -156,7 +156,10 @@ platform.
 
 ### Paid
 
-- [Tricks of the Game-Programming Gurus - by Andre Lamothe, John Ratcliff and Denise Tyler](https://www.amazon.com/Tricks-Game-Programming-Gurus-Andre-Lamothe/dp/0672305070/) - Comprehensive DOS game development book about starting out, creating 2D and basic 3D graphics, I/O and game algorithms.
+- [Tricks of the Game-Programming Gurus - by Andre Lamothe, John Ratcliff and Denise Tyler](https://www.amazon.com/Tricks-Game-Programming-Gurus-Andre-Lamothe/dp/0672305070/) - Comprehensive DOS game development book about starting out. Topics include keyboard, mouse- and joystick input handling, creating 2D and 3D VGA graphics, raycaster rendering, sound and music, game algorithms, Interrupt Service Routines (ISR), timers, artificial intelligence, networked multiplayer through serial port and null-modem cable, tooling, parallax scrolling and optimization techniques.
+  - Ebook available from online libraries to borrow (required due to licensing): [Open Library link](https://openlibrary.org/books/OL1124792M/Tricks_of_the_game-programming_gurus), [Internet Archive link](https://archive.org/details/tricksofgameprog0000unse/page/n5/mode/2up)
+- [More Tricks of the Game Programming Gurus - by Greg Anderson](https://www.amazon.com/More-Tricks-Game-Programming-Gurus-Cd-Rom/dp/0672306972) - Companion book to _Tricks of the Game Programming Gurus_, continuing where the original left off. Topics include SVGA, Binary Space Partition (BSP), UI, voxel graphics, memory management in real and protected mode, advanced sound programming, debugging and optimization techniques.
+  - Ebook available from online libraries to borrow (required due to licensing): [Open Library link](https://openlibrary.org/works/OL19501825W/More_tricks_of_the_game-programming_gurus), [Internet Archive link](https://archive.org/details/moretricksofgame0000unse/page/n7/mode/2up)
 
 ## Videos
 
@@ -180,7 +183,8 @@ platform.
 
 ### Open source DOS libraries
 
-- [Allegro 4.2](https://www.allegro.cc/files/?v=4.2) - Game development library for DOS, Windows and Linux.
+- [Allegro 4.2](https://github.com/liballeg/allegro5/tree/v4-2-3-1) - Game development library for DOS, Windows and Linux. 4.2 version supports DOS platform.
+  - [Allegro 4.2.1 PDF documentation.](https://download.tuxfamily.org/allegro/allegro-manual/4.2.1/allegro-manual-4.2.1.en.pdf)
 - [LoveDOS](https://github.com/rxi/lovedos) - A framework for making 2D DOS games in Lua. API based on a subset of the LÖVE API.
 - [DOS-VGA-Game](https://github.com/marcomarrero/DOS-VGA-Game) - Marco A. Marrero's DOS VGA/hardware library implemented in assembly and Turbo Pascal.
 - [DIGPAK sound drivers source code](https://github.com/jratcliff63367/digpak) - Original source code for the DIGPAK sound drivers uploaded to GitHub by John W. Ratcliff.
