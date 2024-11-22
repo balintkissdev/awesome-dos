@@ -18,8 +18,8 @@ platform.
 - [Books](#books)
 - [Videos](#videos)
 - [Source code](#source-code)
-- [Open source DOS libraries](#open-source-dos-libraries)
-- [Open source DOS games](#open-source-dos-games)
+  - [Open source DOS libraries](#open-source-dos-libraries)
+  - [Open source DOS games](#open-source-dos-games)
 - [Drivers and emulators](#drivers-and-emulators)
 
 ## Development tools
@@ -250,3 +250,4 @@ List of all homebrew DOS games: http://www.doshaven.eu
 
 - [SBEMU](https://github.com/crazii/SBEMU) - A TSR that emulates Sound Blaster and OPL3 in pure DOS using modern PCI-based (onboard and add-in card) sound cards. Supports both real mode and protected mode games!
 - [VSB](https://github.com/Baron-von-Riedesel/VSBHDA) - A fork of SBEMU (see above), which also aims to offer Sound Blaster emulation for modern PC hardware, in both real mode and protected mode games.
+
